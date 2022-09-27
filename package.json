@@ -11,11 +11,11 @@
   "license": "",
   "dependencies": {
     "nan": "2.14.2",
-    "web-tree-sitter": "0.19.1",
-    "tree-sitter-clojure": "https://github.com:sogaiu/tree-sitter-clojure.git#c00293fb0cd5ce3a7005c0601e9b546c1ea73094"
+    "tree-sitter-clojure": "https://github.com:sogaiu/tree-sitter-clojure.git#c00293fb0cd5ce3a7005c0601e9b546c1ea73094",
+    "web-tree-sitter": "0.19.1"
   },
   "devDependencies": {
-    "tree-sitter-cli": "^0.19.4"
+    "tree-sitter-cli": "^0.19.5"
   },
   "tree-sitter": [
     {
